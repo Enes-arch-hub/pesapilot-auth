@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "54087658151",
+    "project_id": "pesapilot-2b8f0",
+    "storage_bucket": "pesapilot-2b8f0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54087658151:android:df34bb7a2dc89b689ec982",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBLVcW9WqT5DEjo_pdgytA1lZ4vuftSfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
